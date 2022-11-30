@@ -12,7 +12,7 @@ public class Main {
             } catch(InputMismatchException e) {
                 scan.nextLine();
                 System.out.println("Invalid input: Use digits 0 to 9 only");
-                continue;
+
             }
         }}
 }
